@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-### 1. GitHub Actions
+### 1. GitHub Actions 
 
 1.  Fork repository
 2.  Setting repository secrets for autosend parameters
